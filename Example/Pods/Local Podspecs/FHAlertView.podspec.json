@@ -1,0 +1,22 @@
+{
+  "name": "FHAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of FHAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/樊华(72086506)/FHAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "樊华(72086506)": "854279162@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/樊华(72086506)/FHAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FHAlertView/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - FHAlertView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - FHAlertView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  FHAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  FHAlertView: 60c3948af33cac1938304e78dfab614bc89c3e25
+
+PODFILE CHECKSUM: 8b3b504345ebbe76ff86ca02c523df727fe18931
+
+COCOAPODS: 1.9.2

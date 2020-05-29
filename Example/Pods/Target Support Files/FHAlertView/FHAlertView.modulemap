@@ -1,0 +1,6 @@
+framework module FHAlertView {
+  umbrella header "FHAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}
